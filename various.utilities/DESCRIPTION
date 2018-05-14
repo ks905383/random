@@ -1,0 +1,10 @@
+Package: various.utilities
+Type: Package
+Title: Catch-all for various utilities I find useful
+Version: 1.0
+Date: 2018-03-06
+Author: Kevin Schwarzwald
+Maintainer: Who to complain to <kschwarzwald@uchicago.edu>
+Description: Currently contains fix_estout (converting STATA estout output into something useful)
+License: 
+RoxygenNote: 6.0.1
